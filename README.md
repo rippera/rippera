@@ -7,6 +7,8 @@
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=rippera&theme=onedark&no-frame=true"/>
 </a>
 
+---
+
 <div>
   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=rippera&show_icons=true&theme=dark" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rippera&layout=compact&theme=dark" />
