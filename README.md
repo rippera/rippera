@@ -1,6 +1,11 @@
 ### Hi there 👋
 - I’m Mikheil Mezurnishvili From Georgia
 - I’m Javascript Enginer
+---
+
+<img width=800 src="https://github-profile-trophy.vercel.app/?username=rippera&theme=onedark&no-frame=true"/>
+
+
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=rippera&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rippera&show_icons=true&theme=dark)
 ---
