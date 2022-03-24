@@ -1,6 +1,5 @@
 ### Hi there 👋
-- I’m Mikheil Mezurnishvili From Georgia
-- I’m Javascript Enginer
+
 ---
 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
